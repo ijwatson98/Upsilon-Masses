@@ -1,4 +1,4 @@
-# Upsilon-Masses
+# Upsilon Masses
 
 Code to produce and analyse Upsilon mass data from LHC-b collected in 2015.
 
